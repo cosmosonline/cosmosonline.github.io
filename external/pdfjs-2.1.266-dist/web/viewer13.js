@@ -5132,7 +5132,7 @@ var defaultOptions = {
     kind: OptionKind.VIEWER
   },
   defaultUrl: {
-    value: 'The Relation Between Time With Black Hole & Wormhole.pdf',
+    value: 'arijeet.pdf',
     kind: OptionKind.VIEWER
   },
   defaultZoomValue: {

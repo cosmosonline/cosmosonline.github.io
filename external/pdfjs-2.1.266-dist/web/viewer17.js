@@ -5132,7 +5132,7 @@ var defaultOptions = {
     kind: OptionKind.VIEWER
   },
   defaultUrl: {
-    value: 'Time travel – Why you need?-Lopamudra Sahu.pdf',
+    value: 'Time travel-Lopamudra Sahu.pdf',
     kind: OptionKind.VIEWER
   },
   defaultZoomValue: {
